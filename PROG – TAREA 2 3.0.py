@@ -3,6 +3,7 @@ import random
 import colorama
 import time
 
+print("")
 colorama.init()
 from colorama import init, Fore, Back, Style
 init(autoreset = True)
