@@ -4,7 +4,6 @@ import colorama
 import time
 
 colorama.init()
-
 from colorama import init, Fore, Back, Style
 init(autoreset = True)
 
